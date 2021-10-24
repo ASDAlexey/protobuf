@@ -1,2 +1,2 @@
-# protobuf
-protobuf js
+# show list files with sizes
+ls -lh
