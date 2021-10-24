@@ -10,5 +10,8 @@ https://github.com/protocolbuffers/protobuf/releases
 https://github.com/protocolbuffers/protobuf/tree/master/js
 https://developers.google.com/protocol-buffers/docs/reference/javascript-generated?hl=ru
 
+## another lib
+https://github.com/protobufjs/protobuf.js
+
 # videos
 https://www.youtube.com/watch?v=46O73On0gyI
