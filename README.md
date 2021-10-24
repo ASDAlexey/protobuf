@@ -2,7 +2,7 @@
 /Users/alexey/Desktop/install/protoc-3.19.0-osx-x86_64/bin/protoc --js_out=import_style=commonjs,binary:. employees.proto
 
 # show list files with sizes
-ls -lh
+ls -l
 
 # libs
 https://developers.google.com/protocol-buffers?hl=ru
