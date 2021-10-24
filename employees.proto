@@ -7,5 +7,5 @@ message Employee {
 }
 
 message Employees {
-  repeated Employee employee = 1;
+  repeated Employee employees = 1;
 }
