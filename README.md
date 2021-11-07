@@ -3,6 +3,7 @@
 
 # show list files with sizes
 ls -l
+ls -lh // in kb
 
 # libs
 https://developers.google.com/protocol-buffers?hl=ru
